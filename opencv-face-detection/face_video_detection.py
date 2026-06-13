@@ -1,7 +1,7 @@
 # -----------------------------------------------------------
 # OpenCV Face Detection in Video
 #
-# Author: ZeroTrace
+# Author: Jishnu Raj
 #
 # Disclaimer:
 # This project is created for educational and learning purposes.
