@@ -2,7 +2,7 @@
 
 This project detects faces in a video using OpenCV and Haar Cascade Classifier.
 
-## Features
+## Features 
 
 * Detect faces in video files
 * Draw rectangles around detected faces
